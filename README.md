@@ -1,4 +1,4 @@
-# RCMPhack
+# GC Blockchain Codefest Submission
 
 
 Readme file
